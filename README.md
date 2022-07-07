@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/805542788712103996)](https://discord.com/users/805542788712103996)
+
 <!--
 **dankiful/dankiful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
